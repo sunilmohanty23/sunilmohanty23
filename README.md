@@ -150,13 +150,35 @@ Worked on research and development activities related to **semiconductor and emb
 
 </p>
 
+
 ---
 
-# 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sunilmohanty23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<a href="https://github.com/sunilmohanty23">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
+</a>
+
+<a href="https://github.com/sunilmohanty23">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
+</a>
+
+<a href="https://github.com/sunilmohanty23">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
+</a>
+
+</p>
+
+---
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sunilmohanty23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies"/>
 
 </p>
 
