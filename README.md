@@ -59,23 +59,28 @@ Currently focused on strengthening my skills in **Embedded C/C++, Arduino, ESP32
 
 # 🚀 Featured Projects
 
-### 🦯 Smart Blind Navigation Stick
+### 🦯 [Smart Blind Navigation Stick](https://github.com/sunilmohanty23/smart-blind-navigation-stick)
 
 An assistive embedded system designed to improve navigation for visually impaired users through obstacle detection and intelligent feedback.
 
 **Focus:** Embedded Systems • Sensors • Assistive Technology • IoT
 
-**Technologies:** Microcontrollers • Sensors • Embedded C/C++
+**Technologies:** ESP32 • Arduino Nano • GPS • GSM • Embedded C/C++
+
+🔗 [View Project →](https://github.com/sunilmohanty23/smart-blind-navigation-stick)
+
 
 ---
 
-### 🌱 Smart Plant Monitoring System
+### 🌱 [Smart Plant Monitoring & Automatic Irrigation](https://github.com/sunilmohanty23/smart-plant-irrigation)
 
-An IoT-based system designed to monitor plant/environmental conditions and provide useful information for intelligent plant management.
+Embedded system for automatic irrigation using soil-moisture-based control.
 
-**Focus:** IoT • Sensors • Automation • Embedded Systems
+**Focus:** Embedded Systems • Sensors • Automation
 
-**Technologies:** ESP32 • Sensors • IoT • MQTT
+**Technologies:** Arduino Uno • C/C++ • DHT11 • I²C
+
+🔗 [View Project →](https://github.com/sunilmohanty23/smart-plant-irrigation)
 
 ---
 
