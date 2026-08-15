@@ -29,7 +29,6 @@ Currently focused on strengthening my skills in **Embedded C/C++, Arduino, ESP32
 ### 💻 Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
 ### 🔌 Microcontrollers & Platforms
@@ -144,9 +143,9 @@ Worked on research and development activities related to **semiconductor and emb
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sunilmohanty23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="./profile/github-stats.svg" height="180" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilmohanty23&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 
 </p>
 
