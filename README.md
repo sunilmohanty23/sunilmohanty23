@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sunil Mohanty
+# 👋 Hi, I'm Sunil Kumar Mohanty
 
 ### Embedded Systems & IoT Enthusiast | C/C++ | Arduino | ESP32 | IoT
 
