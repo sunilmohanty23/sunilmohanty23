@@ -14,7 +14,7 @@ Currently focused on strengthening my skills in **Embedded C/C++, Arduino, ESP32
 
 * 🎓 Electronics & Telecommunication Engineering student
 * 🔧 Focused on **Embedded Systems & IoT**
-* 💻 Working with **C/C++ and Embedded C**
+* 💻 Working with **C and Embedded C**
 * ⚡ Hands-on with **Arduino & ESP32**
 * 📡 Exploring **IoT, MQTT and connected devices**
 * 🔌 Interested in sensors, actuators and communication protocols
