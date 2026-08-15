@@ -1,65 +1,59 @@
 # 👋 Hi, I'm Sunil Mohanty
 
-### Embedded Systems & IoT Engineer | Embedded C | Firmware | IoT
+### Embedded Systems & IoT Enthusiast | C/C++ | Arduino | ESP32 | IoT
 
-I’m an **Electronics & Telecommunication Engineering student** focused on **Embedded Systems and IoT**, with a strong interest in building practical hardware-software solutions.
+I'm an **Electronics & Telecommunication Engineering student** passionate about building practical **Embedded Systems, IoT and automation solutions**.
 
-I enjoy working at the intersection of **firmware, microcontrollers, sensors, communication protocols and connected devices** — turning ideas into functional embedded systems.
+I enjoy working with microcontrollers, sensors, communication technologies and hardware-software integration to turn ideas into working prototypes.
 
-Currently, I'm focused on strengthening my skills in **Embedded C, firmware development, communication protocols, real-time systems and IoT**.
+Currently focused on strengthening my skills in **Embedded C/C++, Arduino, ESP32, IoT, sensors, automation and embedded communication**.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 * 🎓 Electronics & Telecommunication Engineering student
 * 🔧 Focused on **Embedded Systems & IoT**
-* 💻 Working with **C, Embedded C & C++**
-* ⚙️ Exploring **STM32, ARM & microcontroller-based systems**
-* 📡 Interested in **IoT, MQTT & connected devices**
-* 🔌 Interested in **UART, SPI, I²C & CAN**
-* 🤖 Building practical embedded, automation and IoT projects
+* 💻 Working with **C/C++ and Embedded C**
+* ⚡ Hands-on with **Arduino & ESP32**
+* 📡 Exploring **IoT, MQTT and connected devices**
+* 🔌 Interested in sensors, actuators and communication protocols
+* 🤖 Building practical automation and embedded projects
 * 🔬 Research Intern experience in the semiconductor/embedded domain
-* 🚀 Interested in **Firmware Development, Embedded Linux, RTOS & intelligent embedded systems**
+* 🚀 Interested in developing real-world connected embedded systems
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### 💻 Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 
-### ⚙️ Embedded Systems
+### 🔌 Microcontrollers & Platforms
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
 
-**Microcontrollers • Firmware • Sensors • GPIO • Timers • Interrupts • Hardware-Software Integration**
+**Microcontrollers • Sensors • Actuators • GPIO • Hardware-Software Integration**
 
-### 📡 Communication & IoT
+### 🌐 IoT & Communication
 
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=mqtt\&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
 
-**UART • SPI • I²C • CAN • GSM • MQTT • Wireless Communication**
+**MQTT • GSM • Bluetooth • UART • I²C • SPI • Wireless Communication**
 
-### 🔌 Hardware & Electronics
+### 🔧 Tools & Development
 
-**Circuit Design • Sensors • Actuators • PCB Design • Hardware Prototyping • EDA Tools**
-
-### 🧪 Simulation & Development Tools
-
-![Proteus](https://img.shields.io/badge/Proteus-1B1F23?style=for-the-badge)
-![Multisim](https://img.shields.io/badge/Multisim-FF6F00?style=for-the-badge)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-**Arduino IDE • Keil uVision • Proteus • Multisim**
+**Proteus • Multisim • Keil uVision • Arduino IDE • VS Code**
 
 ---
 
@@ -67,21 +61,21 @@ Currently, I'm focused on strengthening my skills in **Embedded C, firmware deve
 
 ### 🦯 Smart Blind Navigation Stick
 
-An assistive embedded system designed to help visually impaired users navigate their surroundings through intelligent obstacle detection and real-time feedback.
+An assistive embedded system designed to improve navigation for visually impaired users through obstacle detection and intelligent feedback.
 
-**Focus:** Embedded Systems • Sensors • Assistive Technology • Navigation
+**Focus:** Embedded Systems • Sensors • Assistive Technology • IoT
 
-**Technologies:** Microcontrollers • Sensors • Embedded Programming
+**Technologies:** Microcontrollers • Sensors • Embedded C/C++
 
 ---
 
 ### 🌱 Smart Plant Monitoring System
 
-An IoT-based embedded system designed to monitor plant/environmental conditions and provide useful information for intelligent plant management.
+An IoT-based system designed to monitor plant/environmental conditions and provide useful information for intelligent plant management.
 
 **Focus:** IoT • Sensors • Automation • Embedded Systems
 
-**Technologies:** Microcontroller • Sensors • MQTT • IoT
+**Technologies:** ESP32 • Sensors • IoT • MQTT
 
 ---
 
@@ -89,7 +83,7 @@ An IoT-based embedded system designed to monitor plant/environmental conditions 
 
 ### Research Intern — 3B Semiconductor Pvt. Ltd.
 
-Worked on research and development activities related to **semiconductor and embedded technology**, including work associated with an embedded robotic system using Renesas GreenPAK.
+Worked on research and development activities related to **semiconductor and embedded technology**, including an embedded robotic system using Renesas GreenPAK.
 
 **Duration:** 45 Days
 
@@ -107,38 +101,37 @@ Worked on research and development activities related to **semiconductor and emb
 # 🎯 Current Focus
 
 ```text
-Embedded Systems
-       │
-       ├── Embedded C / C++
-       │
-       ├── STM32 & ARM
-       │
-       ├── Firmware Development
-       │
-       ├── Sensors & Peripherals
-       │
-       ├── UART / SPI / I²C / CAN
-       │
-       ├── RTOS
-       │
-       ├── Embedded Linux
-       │
-       └── IoT & Connected Devices
+             EMBEDDED SYSTEMS + IoT
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+     Arduino         ESP32         Sensors
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                 Embedded C/C++
+                       │
+              Communication
+                       │
+            ┌──────────┴──────────┐
+            │                     │
+           IoT                Automation
+            │                     │
+          MQTT             Smart Devices
 ```
 
 ---
 
 # 📚 Currently Learning
 
-* 🔹 Advanced Embedded C
-* 🔹 STM32 Microcontroller Development
-* 🔹 ARM Architecture
-* 🔹 RTOS & Real-Time Systems
-* 🔹 Embedded Communication Protocols
-* 🔹 Embedded Linux
+* 🔹 Advanced Embedded C/C++
+* 🔹 ESP32 Development
 * 🔹 IoT Architecture
-* 🔹 Firmware Development
-* 🔹 Hardware-Software Co-Design
+* 🔹 MQTT & Connected Devices
+* 🔹 Sensors & Actuators
+* 🔹 Embedded Communication
+* 🔹 Real-Time Embedded Systems
+* 🔹 Hardware-Software Integration
 
 ---
 
@@ -146,19 +139,9 @@ Embedded Systems
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sunilmohanty23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilmohanty23&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
 
@@ -168,7 +151,17 @@ Embedded Systems
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=sunilmohanty23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sunilmohanty23&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -178,7 +171,7 @@ Embedded Systems
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilmohanty23&theme=tokyo-night&hide_border=true" />
 
 </p>
 
@@ -227,8 +220,8 @@ Currently pursuing engineering with a focus on **Embedded Systems, IoT and Elect
 
 <p align="center">
 
-### ⚡ Building hardware. Writing firmware. Connecting devices.
+### ⚡ Build. Connect. Automate.
 
-**Focused on turning electronics into intelligent, connected systems.**
+**Turning electronics into practical connected systems.**
 
 </p>
