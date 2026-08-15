@@ -178,7 +178,7 @@ Worked on research and development activities related to **semiconductor and emb
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sunilmohanty23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies"/>
+<img src="./assets/github-trophy.svg" alt="GitHub Trophies" />
 
 </p>
 
